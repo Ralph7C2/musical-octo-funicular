@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3adc677-3f6e-4e48-98cd-fcb80f6a1531" name="Default Changelist" comment="" />
+    <list default="true" id="b3adc677-3f6e-4e48-98cd-fcb80f6a1531" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,5 +88,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commits" />
     <option name="LAST_COMMIT_MESSAGE" value="first commits" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575650290724">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575650290724" />
   </component>
 </project>
