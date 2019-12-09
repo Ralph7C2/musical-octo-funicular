@@ -1,1 +1,0 @@
-web: gunicorn projects:app --log-file -
