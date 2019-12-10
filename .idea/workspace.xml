@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3adc677-3f6e-4e48-98cd-fcb80f6a1531" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/.env/bin/easy_install" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/.env/bin/easy_install-3.7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/pkg_resources/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools-40.8.0.dist-info/zip-safe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/__about__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/_compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/_structures.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/_structures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/markers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/specifiers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/build_meta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/build_ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/build_ext.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/easy_install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/install_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/install_lib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/sdist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/command/upload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/depends.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/depends.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/dist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/extern/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/glibc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/msvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/msvc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/package_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/pep425tags.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/py27compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/py27compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/py31compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/py31compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/py33compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/py33compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/unicode_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/unicode_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/lib/python3.7/site-packages/setuptools/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,10 +91,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commits" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575918350777">
+    <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575929863664">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575918350777" />
+    <state x="272" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1575929863664" />
     <state x="8" y="13" key="IDE.errors.dialog" timestamp="1575911037379">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
