@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3adc677-3f6e-4e48-98cd-fcb80f6a1531" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/django-portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django-portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -101,10 +103,15 @@
     </state>
     <state x="8" y="13" key="IDE.errors.dialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575911037379" />
     <state x="8" y="13" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1575904382036" />
-    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1575909458748">
+    <state x="0" y="0" key="SettingsEditor" timestamp="1576058712770">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576058712770" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1576059000311">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/-1366.52.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1575668497434" />
     <state x="163" y="167" key="com.intellij.ide.util.TipDialog/-1366.75.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1575909458748" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576059000311" />
   </component>
 </project>
