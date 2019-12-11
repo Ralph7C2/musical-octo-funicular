@@ -1,3 +1,4 @@
+from projects import views
 """portfolio URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -17,7 +18,7 @@ from django.contrib import admin
 from django.urls import include, path
 
 urlpatterns = [
-    path('', include('projects.urls'),
+    path('', views.all_projects, name='all_projects'),
     path('admin/', admin.site.urls),
     path('projects/', include('projects.urls'))
 ]
